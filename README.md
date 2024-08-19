@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome já está aqui a esquerda, eu curto muito tecnologia desde que nasci basicamente, e estou focado em desenvolvimento Java backend, mas como todo o mortal tenho fases de desbravar outros interesses...</h2>
+<h2 align="left">Olá 👋! Eu curto muito tecnologia desde que nasci basicamente, e estou focado em desenvolvimento Java backend, mas como todo o mortal tenho fases de desbravar outros interesses...</h2>
 <h3 align="left">E ultimamente ando fascinado por UI/UX, talvez nem seja tanto para codar, mas admirando como é uma arte refinada direcionar e deleitar o usuário.</h3>
 <h3 align="left">Tento sempre ler o possível, e ficar por dentro de tudo que é novidade. E enfim, EU AINDA NÃO FIZ NENHUM PULL REQUEST, O PRIMEIRO PODERIA SER AÍ NA SUA EMPRESA? ;)</h3>
 

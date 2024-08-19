@@ -6,6 +6,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenteeuler/)
+[![Portfólio na Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://www.linkedin.com/in/vicenteeuler/](https://www.google./portfolio))
 
 ## 🌐 Portfólio:
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google./portfolio)

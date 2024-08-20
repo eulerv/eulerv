@@ -7,11 +7,11 @@ Well, I've been obsessed with technology since I was born. Besides Java developm
 I like to read something when the time allows me to, and well, I've never done a pull request, could it be in your company? 😉
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenteeuler/)
-[![Portfólio na Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.google.com/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenteeuler/)
 
 ## 🌐 Portfólio:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/portfolio)
+[![Portfólio na Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.google.com/portfolio)
+[![APIs no railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](https://www.google.com/portfolio)
 
 ## 💻 Tech Stack:
 

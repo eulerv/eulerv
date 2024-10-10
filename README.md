@@ -25,7 +25,7 @@ I like to read something when the time allows me to, and well, I've never done a
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 ### 🚀 Projects:
-- [Project Name](link) - Breve descrição do projeto.
+- **API for PicPay Challenge**: [Repository Link](https://github.com/eulerv/api-desafio-picpay)
+  - Projeto criado usando Spring Boot, com incrementos do desafio inicial como rota completa de signup, autentição e autorização. Nele é possível instanciar carteiras, novas transações, e estas serão validadas e tratadas como atômicas(toda a cadeia de processos é executada, ou tudo sofre rollback). 
 
 [![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
-

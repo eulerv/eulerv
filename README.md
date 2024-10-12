@@ -1,8 +1,8 @@
 
 # 👋 Hello, I'm Euler Vicente!
-I'm a passionate backend developer with a deep interest in a wide range of technologies. From Java development to experimenting with frontend frameworks like Next.js, Tailwind, and Framer Motion, I'm always up  to learn!
+I'm a passionate backend developer with a deep interest in a wide range of technologies. From Java backend development to experimenting with frontend frameworks like Next.js, Tailwind, and Framer Motion, I'm always up  to learn!
 
-Well, I've been obsessed with technology since I was born. Besides Java development, I can also code something basic with HTML, CSS, and JavaScript using the frameworks I've mentioned. And I understand the basics of hooks and HTTP requests too, for build visual interfaces required to show my APIs running better (even though swagger do kind of this).
+Well, I've been obsessed with technology since I was born. I'm actually focusing in Java development, studing and working with more complex streams, microservices, resources control with threads management, and so. And I understand the basics of hooks and HTTP requests too, for build react interfaces required to show my APIs running better (even though swagger do kind of this).
 
 I like to read something when the time allows me to, and well, I've never done a pull request, could it be in your company? 😉
 
@@ -25,7 +25,6 @@ I like to read something when the time allows me to, and well, I've never done a
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 ### 🚀 Projects:
-- **API for PicPay Challenge**: [Repository Link](https://github.com/eulerv/api-desafio-picpay)
+- **API for PicPay Challenge**: (https://github.com/eulerv/api-desafio-picpay)
   - Projeto criado usando Spring Boot, com incrementos do desafio inicial como rota completa de signup, autentição e autorização. Nele é possível instanciar carteiras, novas transações, e estas serão validadas e tratadas como atômicas(toda a cadeia de processos é executada, ou tudo sofre rollback). 
-
-[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
+....
